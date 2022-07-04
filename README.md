@@ -6,5 +6,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...React
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ... sertaslanenes@gmail.com
-- 😄 Pronouns: ... He/Him
--->
